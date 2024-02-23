@@ -6,11 +6,16 @@
     "@babel/core": "",
     "@babel/preset-env": "",
     "babel-jest": "",
-    "jest": "",
+    "jest": "^29.7.0",
     "jsdom": "^24.0.0"
   },
   "scripts": {
     "test": "jest"
   },
-  "testEnvironment": "jsdom"
+  "testEnvironment": "jsdom",
+  "description": "Dear students,",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
